@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    
+    <LinearLayout android:id="@+id/slider"
+      			  android:layout_width="match_parent"
+      			  android:layout_height="60dp"
+      			  android:layout_alignParentBottom="true"
+      			  android:layout_centerInParent="true"  
+        		  android:orientation="vertical"
+        		  android:background="#FF0000">
+        
+        <TextView android:id="@+id/content"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="Surviving with Android"/>
+        
+        
+    </LinearLayout>
+
+</RelativeLayout>
