@@ -85,7 +85,10 @@ public class PlanetAdapter extends ArrayAdapter<Planet> implements Filterable {
 		
 		return v;
 	}
-	
+
+	public void resetData() {
+		planetList = origPlanetList;
+	}
 	
 	
 	/* *********************************

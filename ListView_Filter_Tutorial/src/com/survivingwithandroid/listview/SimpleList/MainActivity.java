@@ -103,8 +103,14 @@ public class MainActivity extends Activity {
           
 				@Override
 				public void onTextChanged(CharSequence s, int start, int before, int count) {
-					System.out.println("Text ["+s+"]");
-					aAdpt.getFilter().filter(s.toString());							
+					System.out.println("Text ["+s+"] - Start ["+start+"] - Before ["+before+"] - Count ["+count+"]");
+					if (count < before) {
+						// We're deleting char so we need to reset the adapter data
+						aAdpt.resetData();
+					}
+						
+					aAdpt.getFilter().filter(s.toString());
+					
 				}
 				
 				@Override
