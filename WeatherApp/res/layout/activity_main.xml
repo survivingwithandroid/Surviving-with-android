@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/cityText"
+        style="?android:attr/textAppearanceMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/condIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/cityText" />
+
+    <TextView
+        android:id="@+id/condDescr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/condIcon"
+        android:layout_alignLeft="@id/condIcon" 
+       />
+
+    <TextView
+        android:id="@+id/temp"
+        style="@style/tempStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_alignBaseline="@id/condDescr"
+        android:layout_toRightOf="@id/condDescr"/>
+
+    <TextView
+        android:id="@+id/pressLab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/condDescr"
+        android:text="Pressure"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/press"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/pressLab"
+        android:layout_toRightOf="@id/pressLab" 
+        style="@style/valData"/>
+
+    <TextView
+        android:id="@+id/humLab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/pressLab"
+        android:text="Humidity" />
+
+    <TextView
+        android:id="@+id/hum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/humLab"
+        android:layout_toRightOf="@id/humLab" 
+        android:layout_marginLeft="4dp"
+        style="@style/valData"/>
+
+    <TextView
+        android:id="@+id/windLab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/humLab"
+        android:text="Wind" />
+
+    <TextView
+        android:id="@+id/windSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/windLab"
+        android:layout_toRightOf="@id/windLab"
+        android:layout_marginLeft="4dp"
+        style="@style/valData" />
+
+    <TextView
+        android:id="@+id/windDeg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/windLab"
+        android:layout_toRightOf="@id/windSpeed"
+        android:layout_marginLeft="4dp" 
+        style="@style/valData"/>
+
+</RelativeLayout>
