@@ -1,0 +1,28 @@
+	<classpathentry kind="lib" path="libs/google-api-services-{{ api.name }}-{{ api.version  }}-rev{{ api.revision }}-{{ features.releaseVersion }}.jar" sourcepath="libs-sources/google-api-services-{{ api.name }}-{{ api.version  }}-rev{{ api.revision }}-{{ features.releaseVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-{{ features.baseClientLibrary }}.jar" sourcepath="libs-sources/google-api-client-{{ features.baseClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-android-{{ features.baseClientLibrary }}.jar" sourcepath="libs-sources/google-api-client-android-{{ features.baseClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-appengine-{{ features.baseClientLibrary }}.jar" sourcepath="libs-sources/google-api-client-appengine-{{ features.baseClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-java6-{{ features.baseClientLibrary }}.jar" sourcepath="libs-sources/google-api-client-java6-{{ features.baseClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-servlet-{{ features.baseClientLibrary }}.jar" sourcepath="libs-sources/google-api-client-servlet-{{ features.baseClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-appengine-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-appengine-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-java6-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-java6-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-java7-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-java7-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-jetty-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-jetty-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-oauth-client-servlet-{{ features.oauthClientLibrary }}.jar" sourcepath="libs-sources/google-oauth-client-servlet-{{ features.oauthClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-android-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-android-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-appengine-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-appengine-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-gson-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-gson-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-jackson-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-jackson-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-jackson2-{{ features.httpClientLibrary }}.jar" sourcepath="libs-sources/google-http-client-jackson2-{{ features.httpClientLibrary }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-{{ features.commonsLoggingVersion }}.jar" sourcepath="libs-sources/commons-logging-{{ features.commonsLoggingVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/gson-{{ features.gsonVersion }}.jar" sourcepath="libs-sources/gson-{{ features.gsonVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-{{ features.httpClientVersion }}.jar" sourcepath="libs-sources/httpclient-{{ features.httpClientVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-{{ features.httpCoreVersion }}.jar" sourcepath="libs-sources/httpcore-{{ features.httpCoreVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-asl-{{ features.jacksonCoreAslVersion }}.jar" sourcepath="libs-sources/jackson-core-asl-{{ features.jacksonCoreAslVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-{{ features.jackson2CoreVersion }}.jar" sourcepath="libs-sources/jackson-core-{{ features.jackson2CoreVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jdo2-api-{{ features.jdo2ApiVersion }}.jar" sourcepath="libs-sources/jdo2-api-{{ features.jdo2ApiVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jsr305-{{ features.jsr305Version }}.jar"/>
+	<classpathentry kind="lib" path="libs/transaction-api-{{ features.transactionApiVersion }}.jar" sourcepath="libs-sources/transaction-api-{{ features.transactionApiVersion }}-sources.jar"/>
+	<classpathentry kind="lib" path="libs/xpp3-{{ features.xpp3Version }}.jar" sourcepath="libs-sources/xpp3-{{ features.xpp3Version }}-sources.jar"/>
