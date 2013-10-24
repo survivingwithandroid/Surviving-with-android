@@ -113,11 +113,11 @@ public class MainActivity extends Activity {
 			
 			cityText.setText(weather.location.getCity() + "," + weather.location.getCountry());
 			condDescr.setText(weather.currentCondition.getCondition() + "(" + weather.currentCondition.getDescr() + ")");
-			temp.setText("" + Math.round((weather.temperature.getTemp() - 275.15)) + "°C");
+			temp.setText("" + Math.round((weather.temperature.getTemp() - 273.15)) + "ï¿½C");
 			hum.setText("" + weather.currentCondition.getHumidity() + "%");
 			press.setText("" + weather.currentCondition.getPressure() + " hPa");
 			windSpeed.setText("" + weather.wind.getSpeed() + " mps");
-			windDeg.setText("" + weather.wind.getDeg() + "°");
+			windDeg.setText("" + weather.wind.getDeg() + "ï¿½");
 				
 		}
 
