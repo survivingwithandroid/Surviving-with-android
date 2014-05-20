@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <TextView android:id="@+id/text" android:text="Pressure (mbar)" 
+              style="?android:attr/textAppearanceLarge"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerHorizontal="true"/>
+    
+    <LinearLayout android:id="@+id/l1"
+        	      android:layout_width="160dp"
+                  android:layout_height="80dp" 
+                  android:layout_centerInParent="true"
+                  android:background="#d3e4f4"
+                  >
+
+        <TextView
+            android:id="@+id/pressTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            style="@style/pressStyle" />
+
+    </LinearLayout>
+
+</RelativeLayout>
