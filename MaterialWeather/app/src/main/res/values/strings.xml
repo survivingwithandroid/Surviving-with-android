@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialWeather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="location_placeholder">Finding location</string>
+    <string name="weather.search_city">Search city</string>
+    <string name="weather.refresh">Refresh</string>
+    <string name="dialog.city.header">Select your city</string>
+    <string name="dialog.city.pattern">Enter the name</string>
+</resources>
