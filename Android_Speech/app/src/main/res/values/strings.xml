@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Speech</string>
+
+    <string name="tts">Text To Speech</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_insert">Write here the sentence to read</string>
+    <string name="text_pitch">Pitch</string>
+    <string name="text_speed">Speed</string>
+
+
+</resources>
