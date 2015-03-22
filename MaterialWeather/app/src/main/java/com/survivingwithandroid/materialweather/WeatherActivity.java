@@ -102,6 +102,7 @@ public class WeatherActivity extends ActionBarActivity {
         if (id == R.id.action_search) {
             // We show the dialog
             Dialog d = createDialog();
+            if(!isFinishing())
             d.show();
         }
         return super.onOptionsItemSelected(item);
