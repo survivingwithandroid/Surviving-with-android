@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tagContentType">
+        <item>Uri</item>
+        <item>Phone</item>
+        <item>Text</item>
+    </string-array>
+
+</resources>
