@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CloudRailTest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dropBoxClient">97yiz4w3x42ve8i</string>
+    <string name="dropBoxSecretKey">677e6fp5s6prqp8</string>
+
+    <string name="googleClientId">612951681764-nqp1bstmjo7blq0e68155a6rpqodrg8i.apps.googleusercontent.com</string>
+    <string name="googleSecretKey">Ni_HPkQiyrDFS2nHAWg6fk5_</string>
+
+    <string name="boxClientId">260b9kel607r45mgxmc236b2mmyltsx8</string>
+    <string name="boxSecretKey">ilUKNOx7QmHfMUVvMe2t6dk2ciS1xxr6</string>
+</resources>
