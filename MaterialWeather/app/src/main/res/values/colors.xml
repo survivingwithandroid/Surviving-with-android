@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor_500">#03a9f4</color>
+    <color name="primaryDarkColor_700">#0288d1</color>
+
+
+    <color name="primary_indigo">#3f51b5</color>
+    <color name="primary_blue">#5677fc</color>
+    <color name="primary_light_blue">#03a9f4</color>
+    <color name="primary_teal">#009688</color>
+    <color name="primary_light_green">#8bc34a</color>
+    <color name="primary_green">#259b24</color>
+    <color name="primary_lime">#cddc39</color>
+    <color name="primary_yellow">#ffeb3b</color>
+    <color name="primary_amber">#ffc107</color>
+    <color name="primary_orange">#ff9800</color>
+    <color name="primary_red">#e51c23</color>
+</resources>

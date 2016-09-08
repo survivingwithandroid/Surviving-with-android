@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/fab"
+              android:title="Floating Action Button"
+              android:icon="@drawable/ic_action_fab" />
+
+        <item android:id="@+id/star"
+            android:title="Star"
+            android:icon="@drawable/ic_action_star" />
+
+        <item android:id="@+id/uploadr"
+            android:title="Star"
+            android:icon="@drawable/ic_action_upload" />
+    </group>
+</menu>

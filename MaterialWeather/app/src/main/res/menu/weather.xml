@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".WeatherActivity" >
+
+    <item android:id="@+id/action_search"
+        android:title="@string/weather.search_city"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_search"/>
+
+    <item android:id="@+id/action_refresh"
+        android:title="@string/weather.refresh"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_slideshow"
+    />
+
+</menu>
