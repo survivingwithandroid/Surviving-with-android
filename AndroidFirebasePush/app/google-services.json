@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060343529097",
+    "firebase_url": "https://androidpush-211c4.firebaseio.com",
+    "project_id": "androidpush-211c4",
+    "storage_bucket": "androidpush-211c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060343529097:android:adcd77da95d65099",
+        "android_client_info": {
+          "package_name": "com.survivingwithandroid.fpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060343529097-laaub9ujgj8ka08nmbvnocd5g225qlna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7lVIwwls7tEuem0VVJ6hDMpNP2dmcoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
