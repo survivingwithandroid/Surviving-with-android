@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.survivingwithandroid.socialp.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Profile"
+        android:id="@+id/txt"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFbk"
+        android:text="Facebook Login"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_below="@id/txt"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGoo"
+        android:text="Google+ Login"
+        android:background="@android:color/holo_red_light"
+        android:layout_below="@id/btnFbk"
+        android:layout_marginTop="3dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnTwitter"
+        android:text="Twitter Login"
+        android:background="@android:color/holo_blue_light"
+        android:layout_below="@id/btnGoo"
+        android:layout_marginTop="3dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGithub"
+        android:text="Github Login"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@id/btnTwitter"
+        android:layout_marginTop="3dp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLink"
+        android:text="Linkedin Login"
+        android:background="@android:color/holo_blue_light"
+        android:layout_below="@id/btnGithub"
+        android:layout_marginTop="3dp"/>
+
+</RelativeLayout>
