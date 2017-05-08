@@ -151,12 +151,8 @@ public class PlanetAdapter extends ArrayAdapter<Planet> implements Filterable {
 				FilterResults results) {
 			
 			// Now we have to inform the adapter about the new list filtered
-			if (results.count == 0)
-				notifyDataSetInvalidated();
-			else {
-				planetList = (List<Planet>) results.values;
-				notifyDataSetChanged();
-			}
+			planetList = (List<Planet>) results.values;
+			notifyDataSetChanged();
 			
 		}
 		
