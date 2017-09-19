@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:18:5-50
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:20:22-64
+application
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:22:5-42:19
+	android:label
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:24:9-58
+uses-library#com.google.android.things
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:27:23-63
+activity#com.example.androidthings.myproject.MainActivity
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:29:9-41:20
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:29:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:32:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:36:13-40:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:38:17-80
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:38:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:39:17-75
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml:39:27-73
+uses-sdk
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/AndroidManifest.xml

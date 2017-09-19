@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_SwA_Bot/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 58,
+                        "endOffset": 717
+                    }
+                }
+            }
+        ]
+    }
+]
