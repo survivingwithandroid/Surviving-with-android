@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 203,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/res/values-ro/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 203,
+                        "endOffset": 488
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Sep 30 21:46:00 CEST 2017
+2.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+5.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml
+5.set=JAVA_RESOURCE
+3.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=JAVA_RESOURCE
+4.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+7.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/protobuf.meta
+7.set=JAVA_RESOURCE
+count=9
+0.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/error_prone/Annotations.gwt.xml
+5.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+8.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml
+4.set=DEX
+6.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/jsr305_annotations/Jsr305_annotations.gwt.xml
+1.set=JAVA_RESOURCE
+7.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+2.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/build-data.properties
+6.set=ANDROID_RESOURCE
+0.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+8.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+3.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+4.file=/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+8.set=JAVA_RESOURCE
+0.set=JAVA_RESOURCE

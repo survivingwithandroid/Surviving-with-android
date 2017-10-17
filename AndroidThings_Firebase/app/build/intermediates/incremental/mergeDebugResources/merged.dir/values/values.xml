@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <integer name="google_play_services_version">11400000</integer>
+    <string name="app_name">My Android Things app</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id" translatable="false">528796583571-nrd8dptoonlh4h95og118nsp7ekc3d4k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://androidthingsfirebase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">528796583571</string>
+    <string name="google_api_key" translatable="false">AIzaSyD54tAQVk9O_EBmuRqYfYNWh9f64OKSSE8</string>
+    <string name="google_app_id" translatable="false">1:528796583571:android:fd9a367c78089c31</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD54tAQVk9O_EBmuRqYfYNWh9f64OKSSE8</string>
+    <string name="google_storage_bucket" translatable="false">androidthingsfirebase.appspot.com</string>
+    <string name="project_id" translatable="false">androidthingsfirebase</string>
+</resources>

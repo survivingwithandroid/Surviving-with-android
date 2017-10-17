@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 195,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "/Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/res/values-mk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 195,
+                        "endOffset": 480
+                    }
+                }
+            }
+        ]
+    }
+]

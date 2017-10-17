@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/francesco/.android/build-cache/43ff0499fcc886b75a17ce081ec1df38e2cf538f/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    }
+]

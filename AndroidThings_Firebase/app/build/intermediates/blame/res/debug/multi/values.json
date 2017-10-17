@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 67,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 58,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 58,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 166,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 166,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 143,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 143,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 115,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 115,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 81,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 81,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 103,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 103,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 102,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 102,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 119,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 119,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 104,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 104,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 81,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/build/generated/res/google-services/debug/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 81,
+                        "endOffset": 906
+                    }
+                }
+            }
+        ]
+    }
+]

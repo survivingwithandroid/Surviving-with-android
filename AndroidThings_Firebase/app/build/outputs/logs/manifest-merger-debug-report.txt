@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:18:5-48
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:20:5-82
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:20:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:21:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:21:22-65
+application
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:23:5-43:19
+MERGED from [com.google.firebase:firebase-core:11.4.0] /Users/francesco/.android/build-cache/132e2c672c711637bfda0a56e2c3f83715582f40/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /Users/francesco/.android/build-cache/acb4489d926c6d2887597f7ebd4ab59dab068bef/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/francesco/.android/build-cache/7ebb807b70c011cb99913097f6831d749ec295a5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/francesco/.android/build-cache/a7548b923e6a037f5c033384a0f922c45bb209fa/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/francesco/.android/build-cache/93e5ce240f2fcf5e8f52c448bccef65798306579/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/francesco/.android/build-cache/64b1f4918b63952ea369f9ca205ed7ef0ae5e68f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/francesco/.android/build-cache/d4e37dffa5ce84f296de040a505004dbf11aac9d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/francesco/.android/build-cache/3717634fab5271c649aed417c4a799c4f52f8054/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:25:9-58
+uses-library#com.google.android.things
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:28:23-63
+activity#com.survivingwithandroid.firebase.MainActivity
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:30:9-42:20
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:30:19-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:33:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:37:13-41:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:39:17-80
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:39:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:40:17-75
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml:40:27-73
+uses-sdk
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:11.4.0] /Users/francesco/.android/build-cache/132e2c672c711637bfda0a56e2c3f83715582f40/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.0] /Users/francesco/.android/build-cache/f0cdda038355d9bd591082229ab25d978c03d88a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.0] /Users/francesco/.android/build-cache/daa4989535d373cc25150324af4c149649590e7f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /Users/francesco/.android/build-cache/acb4489d926c6d2887597f7ebd4ab59dab068bef/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/francesco/.android/build-cache/7ebb807b70c011cb99913097f6831d749ec295a5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/francesco/.android/build-cache/a7548b923e6a037f5c033384a0f922c45bb209fa/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/francesco/.android/build-cache/93e5ce240f2fcf5e8f52c448bccef65798306579/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/francesco/.android/build-cache/64b1f4918b63952ea369f9ca205ed7ef0ae5e68f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/francesco/.android/build-cache/d4e37dffa5ce84f296de040a505004dbf11aac9d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/francesco/.android/build-cache/3717634fab5271c649aed417c4a799c4f52f8054/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/francesco/.android/build-cache/7ebb807b70c011cb99913097f6831d749ec295a5/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThings_Firebase/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:21:22-76
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] /Users/francesco/.android/build-cache/9db79c0d6ae958582c2e4a0ff522e743cfeab852/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] /Users/francesco/.android/build-cache/6e43cbe73ef3bf51328cc82e9c8c8decce7795ef/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] /Users/francesco/.android/build-cache/cfc3a92269bc0fefe878ebbcb101bcb660fce7ab/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.0] /Users/francesco/.android/build-cache/647159e629ff3bcbd088ced3ef7bc5a3ae735d56/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] /Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] /Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] /Users/francesco/.android/build-cache/ec613b5cb86873d694015d9934ad16ad3e770658/output/AndroidManifest.xml:20:20-65
