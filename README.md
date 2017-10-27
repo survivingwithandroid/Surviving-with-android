@@ -1,6 +1,6 @@
 #Surviving-with-android
 
-This repository contains the source code related to the posts published in [Surviving with android] (http://www.survivingwithandroid.com)
+This repository contains the source code related to the posts published in [Surviving with android] (https://www.survivingwithandroid.com)
 
 #Credits 
 *Author:* Francesco Azzola (JFrankie) ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
