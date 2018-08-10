@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>Car controller</title>
+   </head>
+   
+   <body>
+     <script language="javascript">
+        function handleClick(value) {
+           var f1 = document.getElementById('f1');
+           var i = document.getElementById('btn');
+           i.value = value;
+           
+           f1.submit();
+        }
+     </script>
+   
+     <form id="f1">
+       <input type="hidden" id="btn" name="btn" value=""/>
+       <input type="hidden" name="control" value="move" />
+       <table>
+       <tr>
+         <td>&nbsp;</td>
+         <td>
+           <button type="button" onclick="handleClick('F')">Forward</button>
+         </td>
+         <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+              <button type="button" onclick="handleClick('L')">Left</button>
+          </td>
+           <td>
+            <button type="button" onclick="handleClick('S')">Stop</button>
+           </td>
+           <td>
+            <button type="button" onclick="handleClick('R')">Right</button>
+          </td>
+        </tr>
+       <tr>
+         <td>&nbsp;</td>
+         <td>
+           <button type="button" onclick="handleClick('B')">Backward</button>
+         </td>
+         <td>&nbsp;</td>
+        </tr>
+      </table>
+    </body>
+ </html>
