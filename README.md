@@ -1,13 +1,13 @@
-#Surviving-with-android
+# Surviving-with-android
 
-This repository contains the source code related to the posts published in [Surviving with android] (http://www.survivingwithandroid.com)
+This repository contains the source code related to the posts published in [Surviving with android] (https://www.survivingwithandroid.com)
 
-#Credits 
-*Author:* Francesco Azzola (JFrankie) ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
+# Credits 
+* Author:* Francesco Azzola (JFrankie) ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
 
 [![](http://4.bp.blogspot.com/-Bfh2unbdc84/UcGqVJKdMwI/AAAAAAAAAOc/W4kGiTU-fYk/s1600/google_plus_58.png)](http://www.google.com/+FrancescoAzzola)  [![](http://3.bp.blogspot.com/-_JSQStno9N8/UcGWEW7V9AI/AAAAAAAAAOM/_qFVUjIaySg/s1600/linkedin.png)](http://it.linkedin.com/in/francescoazzola)
 
-#License
+# License
 Copyright 2012-2014 Francesco Azzola (Surviving with Android)
 
 Licensed under the Apache License, Version 2.0 (the "License");
