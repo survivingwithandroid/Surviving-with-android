@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:3:5-82
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.things.permission.USE_PERIPHERAL_IO
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:5:5-94
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:5:22-91
+uses-permission#com.google.android.things.permission.MANAGE_SENSOR_DRIVERS
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:6:5-98
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:6:22-95
+uses-permission#android.permission.INTERNET
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:24:5-28:19
+uses-library#com.google.android.things
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:10:9-66
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:25:9-27:40
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:25:9-27:40
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:10:23-63
+activity#twillio.androidthings.survivingwithandroid.com.androidthngs_twillio.MainActivity
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:12:9-24:20
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:16:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:18:13-23:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:21:17-81
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:21:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml:22:27-73
+uses-sdk
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:1.0] /Users/francesco/.gradle/caches/transforms-1/files-1.1/driver-bmx280-1.0.aar/af9ff1b129bda946d35f338eeacc900c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/src/main/AndroidManifest.xml
