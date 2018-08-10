@@ -1,0 +1,4 @@
+#Tue Jul 03 21:10:36 CEST 2018
+base.0=/Users/francesco/Documents/StudioProjects/AndroidThngs_Twillio/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
