@@ -1,6 +1,0 @@
-twillio.androidthings.survivingwithandroid.com.androidthngs_twillio
-int color colorAccent 0x7f010000
-int color colorPrimary 0x7f010001
-int color colorPrimaryDark 0x7f010002
-int string app_name 0x7f020000
-int style AppTheme 0x7f030000
