@@ -7,7 +7,7 @@ and using Android Things handle remote peripherals.
 Article: [Build an IoT Bot using Android Things and Telegram](https://www.survivingwithandroid.com/2017/07/android-things-bot-execute-iot-task-iot-bot.html)
 
 
-Pre-requisites
+Components
 --------------
 
 - Android Things compatible board (i.e Raspberry Pi 3)
