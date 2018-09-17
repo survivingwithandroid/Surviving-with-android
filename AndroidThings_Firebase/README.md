@@ -1,33 +1,21 @@
-Android Things empty project template
+How to integrate Android Things with Firebase
 =====================================
 
-Use this empty project as a template for your Android Things project.
+This project describes how to build integrate Android Things with Firebase. Using this IoT project, you can control RGB Led connected to Android Things using Firebase
 
-NOTE: this is very similar to the code created by the Android Things Empty Activity wizard on Android Studio 3+. You can use either to bootstrap your Android Things project.
+Article: [How to integrate Android Things with Firebase: Firebase IoT tutorial](https://www.survivingwithandroid.com/2017/10/how-to-integrate-android-things-with-firebase-firebase-iot-tutorial.html)
+
 
 Pre-requisites
 --------------
 
-- Android Things compatible board
-- Android Studio 2.2+
+- Android Things compatible board (i.e Raspberry Pi 3)
+- RGB Leds
+- 3 Resistors: 220 Ohm
 
-
-Build and install
-=================
-
-On Android Studio, click on the "Run" button.
-
-If you prefer to run on the command line, type
-
-```bash
-./gradlew installDebug
-adb shell am start com.example.androidthings.myproject/.MainActivity
-```
 
 License
 -------
-
-Copyright 2016 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
