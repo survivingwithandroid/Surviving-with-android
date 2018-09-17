@@ -17,7 +17,7 @@ Components
 Schematic
 --------------
 
-![Android Things robot car](/assets/motor_android_things-schematic.png)
+![Android Things robot car](../assets/motor_android_things-schematic.png)
 
 License
 -------
