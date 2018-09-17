@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.survivingwithandroid.androidthings.api"
+        minSdkVersion 25
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+    compileOnly 'com.google.android.things:androidthings:+'
+    implementation files('org.restlet.jar')
+    implementation files('org.restlet.ext.nio.jar')
+    implementation files('org.restlet.ext.json.jar')
+
+    compile 'com.google.android.things.contrib:driver-bmx280:1.0'
+}
