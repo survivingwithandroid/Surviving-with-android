@@ -6,6 +6,8 @@ or a web browser. The Android Things car uses an HTTP server so that you can con
 
 Article: [Play with Android Things GPIO pins and build a robot car](https://www.survivingwithandroid.com/2017/12/android-things-gpio-pins-control-peripherals.html)
 
+![Android Things robot car schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Motors/assets/android_things_gpio_motor.jpg)
+
 
 Components
 --------------
@@ -17,7 +19,7 @@ Components
 Schematic
 --------------
 
-![Android Things robot car](../assets/motor_android_things-schematic.png)
+![Android Things robot car schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Motors/assets/motor_android_things-schematic.png)
 
 License
 -------
