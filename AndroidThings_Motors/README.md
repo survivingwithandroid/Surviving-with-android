@@ -6,14 +6,20 @@ or a web browser. The Android Things car uses an HTTP server so that you can con
 
 Article: [Play with Android Things GPIO pins and build a robot car](https://www.survivingwithandroid.com/2017/12/android-things-gpio-pins-control-peripherals.html)
 
+![Android Things robot car schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Motors/assets/android_things_gpio_motor.jpg)
 
-Pre-requisites
+
+Components
 --------------
 
 - Android Things compatible board (i.e Raspberry Pi 3)
 - L298N Dual H Bridge DC Stepper Motor Driver [Amazon link](https://www.amazon.it/YIKESHU-Chassis-modello-encoder-velocit%C3%A0/dp/B07D5WQXT8/ref=pd_rhf_ee_s_cp_0_2?_encoding=UTF8&pd_rd_i=B07D5WQXT8&pd_rd_r=3PHB26WR7ATSNA1YER70&pd_rd_w=BmHFK&pd_rd_wg=9ujNS&psc=1&refRID=3PHB26WR7ATSNA1YER70)
 
 
+Schematic
+--------------
+
+![Android Things robot car schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Motors/assets/motor_android_things-schematic.png)
 
 License
 -------
