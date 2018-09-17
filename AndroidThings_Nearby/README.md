@@ -5,7 +5,7 @@ Project description: [Android Nearby: How to integrate Android and Android Thing
 
 This tutorial describes how to exchange data between Android and Android Things
 
-## Required devices
+## Components
 * Android smartphone
 * Android Things device (i.e Raspberry Pi 3)
 
