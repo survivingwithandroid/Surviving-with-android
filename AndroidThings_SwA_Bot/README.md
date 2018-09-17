@@ -2,7 +2,9 @@ How to build an IoT Bot using Android Things and Telegram
 =====================================
 
 This project describes how to build an IoT bot using Android Things and Telegram. This bot receives commands from Telegram
-and using Android Things handle remote peripherals
+and using Android Things handle remote peripherals.
+
+Article: [Build an IoT Bot using Android Things and Telegram](https://www.survivingwithandroid.com/2017/07/android-things-bot-execute-iot-task-iot-bot.html)
 
 
 Pre-requisites
