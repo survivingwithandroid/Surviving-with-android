@@ -3,7 +3,8 @@
 
 Project description: [How to build an Android IoT app using Android Things](https://www.survivingwithandroid.com/2017/01/android-iot-app-using-android-things-tutorial.html)
 
-![Android Things GPIO pin with UI interface](https://youtu.be/KT_FAqMbbNQ)
+[![Android Things GPIO pins with UI interface](http://img.youtube.com/vi/KT_FAqMbbNQ/0.jpg)](http://www.youtube.com/watch?v=KT_FAqMbbNQ "Android Things GPIO pins")
+
 
 # Schematic
 ![Android Things GPIO pins](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/Things/assets/androidthings_bb-1024x781.png)
