@@ -5,7 +5,7 @@ Project description: [Android Nearby: How to integrate Android and Android Thing
 
 This tutorial describes how to exchange data between Android and Android Things using Android Nearby API. This project explains how to send data from an Android app to Android Things app and shows the data received using an LCD display.
 
-[Android Things Nearby API](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Nearby/assets/android-things-lcd-min.png)
+![Android Things Nearby API](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_Nearby/assets/android-things-lcd-min.png)
 
 ## Components
 * Android smartphone
