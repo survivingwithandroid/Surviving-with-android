@@ -1,17 +1,49 @@
-How to integrate Android Things with Firebase
+How to use external displays with Android Things
 =====================================
 
-This project describes how to build integrate Android Things with Firebase. Using this IoT project, you can control RGB Led connected to Android Things using Firebase
+This project describes how to connect external displays with Android Things. The source code covers how to use Android Things with these displays:
 
-Article: [How to integrate Android Things with Firebase: Firebase IoT tutorial](https://www.survivingwithandroid.com/2017/10/how-to-integrate-android-things-with-firebase-firebase-iot-tutorial.html)
+- TM1637
+- Max7219
+- LCD2004 LCD1602
+- SSD1306
+
+Article: [4 external displays to use with Android Things: TM1637, Max7219, SSD1306, LCD 1602, LCD 2004](https://www.survivingwithandroid.com/2018/09/4-external-displays-to-use-with-android-things-tm1637-max7219-ssd1306-lcd-1602-lcd-2004.html)
 
 
 Pre-requisites
 --------------
 
 - Android Things compatible board (i.e Raspberry Pi 3)
-- RGB Leds
-- 3 Resistors: 220 Ohm
+- TM1637
+- Max7219
+- LCD2004
+- LCD1602
+- SSD1306
+
+How to connect TM1637 to Android Things
+--------------
+![How to connect TM1637 to Android Things: Schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/tm1637_schematic.png)
+
+![Example of connection between TM1637 and Android Things](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-external-display-tm1637.jpg)
+
+How to connect Max7219 to Android Things
+--------------
+![How to connect Max7219 to Android Things: Schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/max7219_bb.png)
+
+![Example of connection between Max7219 and Android Things](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-external-display-max7219.jpg)
+
+How to connect LCD2004/LCD1602 to Android Things
+--------------
+![How to connect LCD2004/LCD1602 to Android Things: Schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-lcd-display.jpg)
+
+![Example of connection between Max7219 and Android Things](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-lcd-display-2004.jpg)
+
+How to connect SSD1306 to Android Things
+--------------
+![How to connect SSD1306 to Android Things: Schematic](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-ssd1306.png)
+
+![Example of connection between SSD1306 and Android Things](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_LCD/assets/android-things-ssd1306.jpg)
 
 
 License
