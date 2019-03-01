@@ -1,19 +1,11 @@
-Firebase ML Kit: How to use face detection
+Machine Learning with Android: Learn how to use Machine Learning Image classification
 ==========================================
 
-This project describes how to use Firebase ML kit to detect face features in Android Things. The purpose of this Android Things project
-is explaing how to detect detect face characteristics. Using the face characteristics detected the app controls the LCD display.
+This project describes how to use Machine Learning Image classification in Android. This Machine Learning project uses Fritz.ai. The Android app uses camera to detect objects and then labels them using Machine Learning classification.
+Warning: The app is not production ready.
 
-Article: [Firebase ML Kit: Build a face features detecting app with Face Detection API and Android Things](https://www.survivingwithandroid.com/2019/01/firebase-ml-kit-face-detection.html)
+Article: [How to apply Machine Learning to Android using Fritz.ai](https://www.survivingwithandroid.com/2019/02/how-to-apply-machine-learning-to-android.html)
 
-![Firebase ML Kit: Face detection API](https://github.com/survivingwithandroid/Surviving-with-android/blob/master/AndroidThings_FaceDetector/assets/face_detection_api_android_things-min.jpg)
-
-Pre-requisites
---------------
-
-- Android Things compatible board (i.e Raspberry Pi 3)
-- Raspberry Pi Camera
-- LCD (SSD1306)
 
 
 License
